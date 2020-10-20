@@ -17,6 +17,7 @@ steps:
   name: publickey
   inputs:
     secureFile: 'azure_rsa.pub'
+    
 
 - task: TerraformCLI@0
   inputs:

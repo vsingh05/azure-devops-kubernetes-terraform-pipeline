@@ -28,7 +28,7 @@ steps:
     ensureBackend: true
     backendAzureRmResourceGroupName: 'k8sbackendterraformresourcegroupname'
     backendAzureRmResourceGroupLocation: 'westeurope'
-    backendAzureRmStorageAccountName: 'storageaccountk8svariname'
+    backendAzureRmStorageAccountName: 'storageaccntk8s'
     backendAzureRmContainerName: 'storageaccountk8svaricontainername'
     backendAzureRmKey: 'storageaccountk8svaricontainerkey'
     allowTelemetryCollection: true
